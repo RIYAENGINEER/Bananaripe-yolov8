@@ -114,9 +114,7 @@ subprocess.Popen(["streamlit", "run", "app.py", "--server.port", str(port)])
 
 ## 🧾 Example Output
 
-| Input Image | Prediction |
-|--------------|-------------|
-| ![banana](https://i.imgur.com/Fvc2VOB.jpg) | ![result](https://i.imgur.com/mUJPmP2.jpg) |
+<img width="1553" height="864" alt="image" src="https://github.com/user-attachments/assets/05634242-ce15-4a41-a942-5b5febd01ad3" />
 
 ---
 
